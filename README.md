@@ -35,6 +35,22 @@ An online community from Morocco 🇲🇦 that teaches **digital marketing**: SE
       <a href="https://github.com/NIDACADEMY/pin-poster/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/pin-poster?style=for-the-badge&label=version&color=3b3b3b" alt="Pin Poster version"></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NIDACADEMY/cod-store"><img src="https://github.com/NIDACADEMY/cod-store/raw/main/.github/images/banner.webp" alt="COD Store WooCommerce theme"></a>
+      <h3><a href="https://github.com/NIDACADEMY/cod-store">COD Store</a> · WooCommerce theme</h3>
+      <p>A fast cash-on-delivery store theme for Arabic stores: order form on the product page, WhatsApp ordering, quantity offers and a currency switcher.</p>
+      <a href="https://github.com/NIDACADEMY/cod-store/releases/latest/download/hx-store.zip"><img src="https://img.shields.io/badge/Download-free-0f7490?style=for-the-badge" alt="Download COD Store"></a>
+      <a href="https://github.com/NIDACADEMY/cod-store/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/cod-store?style=for-the-badge&label=version&color=3b3b3b" alt="COD Store version"></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NIDACADEMY/cod-manager-pro"><img src="https://github.com/NIDACADEMY/cod-manager-pro/raw/main/.github/images/banner.webp" alt="COD Manager Pro WooCommerce plugin"></a>
+      <h3><a href="https://github.com/NIDACADEMY/cod-manager-pro">COD Manager Pro</a> · WooCommerce plugin</h3>
+      <p>Confirm, ship and collect cash-on-delivery orders in one work queue, print shipping labels, and see your real profit and what couriers still owe you.</p>
+      <a href="https://github.com/NIDACADEMY/cod-manager-pro/releases/latest/download/cod-manager-pro.zip"><img src="https://img.shields.io/badge/Download-free-4338ca?style=for-the-badge" alt="Download COD Manager Pro"></a>
+      <a href="https://github.com/NIDACADEMY/cod-manager-pro/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/cod-manager-pro?style=for-the-badge&label=version&color=3b3b3b" alt="COD Manager Pro version"></a>
+    </td>
+  </tr>
 </table>
 
 ## 📚 Free guides
