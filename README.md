@@ -51,6 +51,16 @@ An online community from Morocco 🇲🇦 that teaches **digital marketing**: SE
       <a href="https://github.com/NIDACADEMY/cod-manager-pro/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/cod-manager-pro?style=for-the-badge&label=version&color=3b3b3b" alt="COD Manager Pro version"></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NIDACADEMY/car-rental-theme"><img src="https://github.com/NIDACADEMY/car-rental-theme/raw/main/.github/images/banner.webp" alt="Exotic Cars car rental WordPress theme"></a>
+      <h3><a href="https://github.com/NIDACADEMY/car-rental-theme">Exotic Cars</a> · WordPress theme</h3>
+      <p>A complete car rental website: fleet manager, online booking with Stripe deposits, customer emails, a profit dashboard, and 7 languages with Arabic right to left.</p>
+      <a href="https://github.com/NIDACADEMY/car-rental-theme/releases/latest/download/exotic-cars.zip"><img src="https://img.shields.io/badge/Download-free-a8742f?style=for-the-badge" alt="Download Exotic Cars"></a>
+      <a href="https://github.com/NIDACADEMY/car-rental-theme/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/car-rental-theme?style=for-the-badge&label=version&color=3b3b3b" alt="Exotic Cars version"></a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## 📚 Free guides
