@@ -37,7 +37,7 @@ An online community from Morocco 🇲🇦 that teaches **digital marketing**: SE
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/NIDACADEMY/cod-store"><img src="https://github.com/NIDACADEMY/cod-store/raw/main/.github/images/banner.webp" alt="COD Store WooCommerce theme"></a>
+      <a href="https://github.com/NIDACADEMY/cod-store"><img src="https://github.com/NIDACADEMY/cod-store/raw/main/.github/images/banner-store.webp" alt="COD Store WooCommerce theme"></a>
       <h3><a href="https://github.com/NIDACADEMY/cod-store">COD Store</a> · WooCommerce theme</h3>
       <p>A fast cash-on-delivery store theme for Arabic stores: order form on the product page, WhatsApp ordering, quantity offers and a currency switcher.</p>
       <a href="https://github.com/NIDACADEMY/cod-store/releases/latest/download/hx-store.zip"><img src="https://img.shields.io/badge/Download-free-0f7490?style=for-the-badge" alt="Download COD Store"></a>
