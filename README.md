@@ -12,7 +12,7 @@
   <a href="https://twitter.com/NidacademyAr"><img src="https://img.shields.io/badge/X-@NidacademyAr-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
-## 👋 Welcome to Nid Academy
+## Nid Academy
 
 An online community from Morocco 🇲🇦 that teaches **digital marketing**: SEO, keyword research, AI, WordPress, Pinterest and automation. We are passionate about helping people grow their business online, and we share the tools we build for our own sites **for free**.
 
