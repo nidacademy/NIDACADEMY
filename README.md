@@ -1,4 +1,8 @@
-<img src="assets/banner-dark.webp" alt="Nid Academy: free, practical tutorials on AI, automation, WordPress, SEO and digital marketing" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.webp">
+  <img src="assets/banner-light.webp" alt="Nid Academy: free, practical tutorials on AI, automation, WordPress, SEO and digital marketing" width="100%">
+</picture>
 
 <p align="center">
   <a href="https://www.nidacademy.org"><img src="https://img.shields.io/badge/Website-nidacademy.org-e67a00?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
