@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.webp">
-  <img src="assets/banner-light.webp" alt="Nid Academy: digital marketing coaching, and free tools that help bloggers grow online" width="100%">
+  <img src="assets/banner-light.webp" alt="Nid Academy: free, practical tutorials on AI, automation, WordPress, SEO and digital marketing" width="100%">
 </picture>
 
 <p align="center">
@@ -14,7 +14,13 @@
 
 ## Nid Academy
 
-An online community from Morocco 🇲🇦 that teaches **digital marketing**: SEO, keyword research, AI, WordPress, Pinterest and automation. We are passionate about helping people grow their business online, and we share the tools we build for our own sites **for free**.
+**Nid Academy** is a Moroccan 🇲🇦 technology education platform with practical, free tutorials on **Artificial Intelligence (AI), automation, WordPress, SEO, digital marketing** and other modern technologies.
+
+- 🧠 **Learn** to use powerful digital tools
+- 🛠 **Build** real-world projects, step by step
+- 🚀 **Develop** practical digital skills, **for free**
+
+The tools we build for our own sites are shared below, free and open source.
 
 ## 🛠 Free tools
 
@@ -74,7 +80,7 @@ An online community from Morocco 🇲🇦 that teaches **digital marketing**: SE
 ## 🎓 What we teach
 
 ```
-SEO & keyword research  ·  AI for marketing  ·  WordPress  ·  Pinterest marketing  ·  Automation
+Artificial Intelligence  ·  Automation  ·  WordPress  ·  SEO  ·  Digital marketing  ·  Modern tech
 ```
 
 ## 🎥 Learn with us
