@@ -61,6 +61,7 @@ The tools we build for our own sites are shared below, free and open source.
 |---|---|
 | [**Nid Academy**](https://www.nidacademy.org) | Free, practical tutorials on AI, automation, WordPress, SEO and digital marketing. |
 | [**Koora Updates**](https://kooraupdates.com) | Live football scores, fixtures, results and news. |
+| [**COD Store**](https://www.cod-theme.com) | Live demo of the COD Store theme and COD Manager Pro plugin. |
 | [**Exotic Cars**](https://www.car-theme.online) | Live demo of the Exotic Cars car rental theme. |
 | [**ArtGeni**](https://image2prompt2.vercel.app) | Turn any image into an AI prompt. |
 | [**Pixtra**](https://pixtra-zeta.vercel.app) | AI image prompt generator for Midjourney, Stable Diffusion, DALL-E and more. |
