@@ -17,6 +17,9 @@ README = ROOT / "README.md"
 TOOLS = ROOT / "tools.json"
 START = "<!-- TOOLS:START -->"
 END = "<!-- TOOLS:END -->"
+# "gallery": borderless banners side by side, each linking to its repo.
+# "cards":   2-column table with a title line and Download / Star badges.
+LAYOUT = "gallery"
 
 
 def is_public(repo):
@@ -61,6 +64,24 @@ def card(t):
 
 
 def render(tools):
+    return render_gallery(tools) if LAYOUT == "gallery" else render_cards(tools)
+
+
+def render_gallery(tools):
+    """Banners side by side, no table, so GitHub draws no borders.
+    Each banner links to its repo, where the download button lives."""
+    imgs = []
+    for t in tools:
+        base = f"https://github.com/{OWNER}/{t['repo']}"
+        alt = f"{t['name']}, {t['type']}: {t['description']}"
+        imgs.append(
+            f'  <a href="{base}" title="{t["name"]} · {t["type"]}">'
+            f'<img src="{base}/raw/main/{t["banner"]}" alt="{alt}" width="49%"></a>'
+        )
+    return '<p align="center">\n' + "\n".join(imgs) + "\n</p>"
+
+
+def render_cards(tools):
     rows = []
     for i in range(0, len(tools), 2):
         pair = [card(t) for t in tools[i:i + 2]]

@@ -25,37 +25,11 @@ The tools we build for our own sites are shared below, free and open source.
 ## 🛠 Free tools
 
 <!-- TOOLS:START -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NIDACADEMY/cod-store"><img src="https://github.com/NIDACADEMY/cod-store/raw/main/.github/images/banner-store-v2.webp" alt="COD Store WooCommerce theme: A fast cash-on-delivery store theme for Arabic stores: order form on the product page, WhatsApp ordering, quantity offers and a currency switcher."></a>
-      <p><a href="https://github.com/NIDACADEMY/cod-store"><b>COD Store</b></a> · WooCommerce theme</p>
-      <p>
-        <a href="https://github.com/NIDACADEMY/cod-store/releases/latest/download/hx-store.zip"><img src="https://img.shields.io/github/v/release/NIDACADEMY/cod-store?style=flat-square&label=Download&color=0f7490&logo=github&logoColor=white" alt="Download COD Store"></a>
-        <a href="https://github.com/NIDACADEMY/cod-store"><img src="https://img.shields.io/github/stars/NIDACADEMY/cod-store?style=flat-square&label=Star&color=3b3b3b&logo=github&logoColor=white" alt="Star COD Store on GitHub"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NIDACADEMY/cod-manager-pro"><img src="https://github.com/NIDACADEMY/cod-manager-pro/raw/main/.github/images/banner.webp" alt="COD Manager Pro WooCommerce plugin: Confirm, ship and collect cash-on-delivery orders in one work queue, print shipping labels, and see your real profit and what couriers still owe you."></a>
-      <p><a href="https://github.com/NIDACADEMY/cod-manager-pro"><b>COD Manager Pro</b></a> · WooCommerce plugin</p>
-      <p>
-        <a href="https://github.com/NIDACADEMY/cod-manager-pro/releases/latest/download/cod-manager-pro.zip"><img src="https://img.shields.io/github/v/release/NIDACADEMY/cod-manager-pro?style=flat-square&label=Download&color=4338ca&logo=github&logoColor=white" alt="Download COD Manager Pro"></a>
-        <a href="https://github.com/NIDACADEMY/cod-manager-pro"><img src="https://img.shields.io/github/stars/NIDACADEMY/cod-manager-pro?style=flat-square&label=Star&color=3b3b3b&logo=github&logoColor=white" alt="Star COD Manager Pro on GitHub"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NIDACADEMY/car-rental-theme"><img src="https://github.com/NIDACADEMY/car-rental-theme/raw/main/.github/images/banner.webp" alt="Exotic Cars car rental WordPress theme: A complete car rental website: fleet manager, online booking with Stripe deposits, customer emails, a profit dashboard, and 7 languages with Arabic right to left."></a>
-      <p><a href="https://github.com/NIDACADEMY/car-rental-theme"><b>Exotic Cars</b></a> · WordPress theme</p>
-      <p>
-        <a href="https://github.com/NIDACADEMY/car-rental-theme/releases/latest/download/exotic-cars.zip"><img src="https://img.shields.io/github/v/release/NIDACADEMY/car-rental-theme?style=flat-square&label=Download&color=a8742f&logo=github&logoColor=white" alt="Download Exotic Cars"></a>
-        <a href="https://github.com/NIDACADEMY/car-rental-theme"><img src="https://img.shields.io/github/stars/NIDACADEMY/car-rental-theme?style=flat-square&label=Star&color=3b3b3b&logo=github&logoColor=white" alt="Star Exotic Cars on GitHub"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/NIDACADEMY/cod-store" title="COD Store · WooCommerce theme"><img src="https://github.com/NIDACADEMY/cod-store/raw/main/.github/images/banner-store-v2.webp" alt="COD Store, WooCommerce theme: A fast cash-on-delivery store theme for Arabic stores: order form on the product page, WhatsApp ordering, quantity offers and a currency switcher." width="49%"></a>
+  <a href="https://github.com/NIDACADEMY/cod-manager-pro" title="COD Manager Pro · WooCommerce plugin"><img src="https://github.com/NIDACADEMY/cod-manager-pro/raw/main/.github/images/banner.webp" alt="COD Manager Pro, WooCommerce plugin: Confirm, ship and collect cash-on-delivery orders in one work queue, print shipping labels, and see your real profit and what couriers still owe you." width="49%"></a>
+  <a href="https://github.com/NIDACADEMY/car-rental-theme" title="Exotic Cars · WordPress theme"><img src="https://github.com/NIDACADEMY/car-rental-theme/raw/main/.github/images/banner.webp" alt="Exotic Cars, WordPress theme: A complete car rental website: fleet manager, online booking with Stripe deposits, customer emails, a profit dashboard, and 7 languages with Arabic right to left." width="49%"></a>
+</p>
 <!-- TOOLS:END -->
 
 ## 🌐 Online projects
