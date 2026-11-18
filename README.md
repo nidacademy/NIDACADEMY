@@ -102,7 +102,7 @@ New tutorials on how to grow online, step by step, and how to use the tools abov
   </tr>
 </table>
 
-<p>
+<p align="center">
   <a href="https://www.youtube.com/@Nid.Academy"><img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"></a>
   <a href="https://www.instagram.com/nidacademy_/"><img src="https://img.shields.io/badge/Follow%20on%20Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"></a>
   <a href="https://www.facebook.com/nidacademy1"><img src="https://img.shields.io/badge/Like%20on%20Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Like on Facebook"></a>
