@@ -39,12 +39,24 @@ def is_public(repo):
 def card(t):
     base = f"https://github.com/{OWNER}/{t['repo']}"
     n = t["name"]
+    # The banner already shows the name and description, so the card only
+    # adds one title line and two small badges under it.
+    download = (
+        f"https://img.shields.io/github/v/release/{OWNER}/{t['repo']}"
+        f"?style=flat-square&label=Download&color={t['color']}"
+        f"&logo=github&logoColor=white"
+    )
+    stars = (
+        f"https://img.shields.io/github/stars/{OWNER}/{t['repo']}"
+        f"?style=flat-square&label=Star&color=3b3b3b&logo=github&logoColor=white"
+    )
     return f"""    <td width="50%" valign="top">
-      <a href="{base}"><img src="{base}/raw/main/{t['banner']}" alt="{t['alt']}"></a>
-      <h3><a href="{base}">{n}</a> · {t['type']}</h3>
-      <p>{t['description']}</p>
-      <a href="{base}/releases/latest/download/{t['zip']}"><img src="https://img.shields.io/badge/Download-free-{t['color']}?style=for-the-badge" alt="Download {n}"></a>
-      <a href="{base}/releases/latest"><img src="https://img.shields.io/github/v/release/{OWNER}/{t['repo']}?style=for-the-badge&label=version&color=3b3b3b" alt="{n} version"></a>
+      <a href="{base}"><img src="{base}/raw/main/{t['banner']}" alt="{t['alt']}: {t['description']}"></a>
+      <p><a href="{base}"><b>{n}</b></a> · {t['type']}</p>
+      <p>
+        <a href="{base}/releases/latest/download/{t['zip']}"><img src="{download}" alt="Download {n}"></a>
+        <a href="{base}"><img src="{stars}" alt="Star {n} on GitHub"></a>
+      </p>
     </td>"""
 
 
