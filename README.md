@@ -55,19 +55,16 @@ The tools we build for our own sites are shared below, free and open source.
 </table>
 <!-- TOOLS:END -->
 
-## 📚 Free guides
+## 🌐 Online projects
 
-| Guide | What you'll learn |
+| Project | What it is |
 |---|---|
-| [**Generative Engine Optimization (GEO)**](https://github.com/NIDACADEMY/Generative-Engine-Optimization) | How to fine-tune, profile and deploy generative AI models for speed, efficiency and better output. |
-| [**SEO for Small Business**](https://github.com/NIDACADEMY/seo-for-small-business-2023) | The essential SEO steps to bring more search traffic to a small business website. |
-| [**The SEO SEAL Method**](https://github.com/NIDACADEMY/seo-seal-method) | Seed → Expand → Analyze → Long-Tail: a data-driven keyword research framework, with spreadsheet templates. |
-
-## 🎓 What we teach
-
-```
-Artificial Intelligence  ·  Automation  ·  WordPress  ·  SEO  ·  Digital marketing  ·  Modern tech
-```
+| [**Nid Academy**](https://www.nidacademy.org) | Free, practical tutorials on AI, automation, WordPress, SEO and digital marketing. |
+| [**Koora Updates**](https://kooraupdates.com) | Live football scores, fixtures, results and news. |
+| [**Exotic Cars**](https://www.car-theme.online) | Live demo of the Exotic Cars car rental theme. |
+| [**ArtGeni**](https://image2prompt2.vercel.app) | Turn any image into an AI prompt. |
+| [**Pixtra**](https://pixtra-zeta.vercel.app) | AI image prompt generator for Midjourney, Stable Diffusion, DALL-E and more. |
+| [**WP Recipe Genie**](https://www.nidacademy.org/wp-recipe-genie/) | A beginner-friendly WordPress plugin that helps food bloggers create SEO-optimized recipe posts. |
 
 ## 🎥 Learn with us
 
