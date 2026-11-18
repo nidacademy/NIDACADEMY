@@ -75,7 +75,7 @@ New tutorials on how to grow online, step by step, and how to use the tools abov
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://www.youtube.com/watch?v=dIFyLpIhVDY"><img src="https://img.youtube.com/vi/dIFyLpIhVDY/maxresdefault.jpg" alt="كيف تبني موقعاً لكراء السيارات في 2026؟ (شرح كامل)" width="100%"></a>
-      <p dir="auto"><a href="https://www.youtube.com/watch?v=dIFyLpIhVDY"><b>كيف تبني موقعاً لكراء السيارات في 2026؟ (شرح كامل)</b></a></p>
+      <p dir="auto"><a href="https://www.youtube.com/watch?v=dIFyLpIhVDY"><b>كيف تبني موقعاً لكراء السيارات في 2026؟ </b></a></p>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://www.youtube.com/watch?v=WX5wFjL3-Nw"><img src="https://img.youtube.com/vi/WX5wFjL3-Nw/maxresdefault.jpg" alt="Cash On Delivery | أفضل طريقة لانشاء متجر الكتروني احترافي" width="100%"></a>
