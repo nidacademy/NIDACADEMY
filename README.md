@@ -59,22 +59,6 @@ The tools we build for our own sites are shared below, free and open source.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nidacademy/koora-dash"><img src="https://github.com/nidacademy/koora-dash/raw/main/.github/images/banner.webp" alt="Koora Dash football WordPress theme"></a>
-      <h3><a href="https://github.com/nidacademy/koora-dash">Koora Dash</a> · WordPress theme</h3>
-      <p>A football dashboard theme: live scores, fixtures, league tables and news in one dark layout, 17 leagues ready, ad slots, and an app feel on phones.</p>
-      <a href="https://github.com/nidacademy/koora-dash/releases/latest/download/koora-dash.zip"><img src="https://img.shields.io/badge/Download-free-e67a00?style=for-the-badge" alt="Download Koora Dash"></a>
-      <a href="https://github.com/nidacademy/koora-dash/releases/latest"><img src="https://img.shields.io/github/v/release/nidacademy/koora-dash?style=for-the-badge&label=version&color=3b3b3b" alt="Koora Dash version"></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nidacademy/koora-autowriter"><img src="https://github.com/nidacademy/koora-autowriter/raw/main/.github/images/banner.webp" alt="Koora AutoWriter WordPress plugin"></a>
-      <h3><a href="https://github.com/nidacademy/koora-autowriter">Koora AutoWriter</a> · WordPress plugin</h3>
-      <p>Turns football RSS feeds into original, Rank Math-ready news articles with AI (any OpenRouter model), with branded featured images and source links.</p>
-      <a href="https://github.com/nidacademy/koora-autowriter/releases/latest/download/koora-autowriter.zip"><img src="https://img.shields.io/badge/Download-free-2563eb?style=for-the-badge" alt="Download Koora AutoWriter"></a>
-      <a href="https://github.com/nidacademy/koora-autowriter/releases/latest"><img src="https://img.shields.io/github/v/release/nidacademy/koora-autowriter?style=for-the-badge&label=version&color=3b3b3b" alt="Koora AutoWriter version"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://github.com/NIDACADEMY/car-rental-theme"><img src="https://github.com/NIDACADEMY/car-rental-theme/raw/main/.github/images/banner.webp" alt="Exotic Cars car rental WordPress theme"></a>
       <h3><a href="https://github.com/NIDACADEMY/car-rental-theme">Exotic Cars</a> · WordPress theme</h3>
       <p>A complete car rental website: fleet manager, online booking with Stripe deposits, customer emails, a profit dashboard, and 7 languages with Arabic right to left.</p>
