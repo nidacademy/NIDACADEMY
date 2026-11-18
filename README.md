@@ -24,23 +24,8 @@ The tools we build for our own sites are shared below, free and open source.
 
 ## 🛠 Free tools
 
+<!-- TOOLS:START -->
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NIDACADEMY/nail-niche"><img src="https://github.com/NIDACADEMY/nail-niche/raw/main/.github/images/banner.webp" alt="Nail Niche WordPress theme"></a>
-      <h3><a href="https://github.com/NIDACADEMY/nail-niche">Nail Niche</a> · WordPress theme</h3>
-      <p>A plain, photo-first theme for nail and beauty blogs: 7 home page designs, a Pinterest Save button on every photo, and automatic updates.</p>
-      <a href="https://github.com/NIDACADEMY/nail-niche/releases/latest/download/nail-niche.zip"><img src="https://img.shields.io/badge/Download-free-c2255c?style=for-the-badge" alt="Download Nail Niche"></a>
-      <a href="https://github.com/NIDACADEMY/nail-niche/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/nail-niche?style=for-the-badge&label=version&color=3b3b3b" alt="Nail Niche version"></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NIDACADEMY/pin-poster"><img src="https://github.com/NIDACADEMY/pin-poster/raw/main/.github/images/banner.webp" alt="Pin Poster WordPress plugin"></a>
-      <h3><a href="https://github.com/NIDACADEMY/pin-poster">Pin Poster</a> · WordPress plugin</h3>
-      <p>Writes nail-idea blog posts with AI, makes a Pinterest-size image for every look, and sends them to Pinterest through Buffer, by hand or on a schedule.</p>
-      <a href="https://github.com/NIDACADEMY/pin-poster/releases/latest/download/pin-poster.zip"><img src="https://img.shields.io/badge/Download-free-8f2d4f?style=for-the-badge" alt="Download Pin Poster"></a>
-      <a href="https://github.com/NIDACADEMY/pin-poster/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/pin-poster?style=for-the-badge&label=version&color=3b3b3b" alt="Pin Poster version"></a>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/NIDACADEMY/cod-store"><img src="https://github.com/NIDACADEMY/cod-store/raw/main/.github/images/banner-store-v2.webp" alt="COD Store WooCommerce theme"></a>
@@ -68,6 +53,7 @@ The tools we build for our own sites are shared below, free and open source.
     <td width="50%" valign="top"></td>
   </tr>
 </table>
+<!-- TOOLS:END -->
 
 ## 📚 Free guides
 

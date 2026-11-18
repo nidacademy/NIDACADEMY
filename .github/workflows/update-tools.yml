@@ -1,0 +1,42 @@
+name: Update Free tools
+
+on:
+  schedule:
+    - cron: "17 * * * *" # every hour
+  workflow_dispatch: # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - tools.json
+      - .github/scripts/update_tools.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-tools
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild Free tools from public repos
+        run: python3 .github/scripts/update_tools.py
+        env:
+          # This token can only read this repo, so any other private repo
+          # returns 404 and is hidden.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update Free tools (public repos only)"
+          git push

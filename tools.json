@@ -1,0 +1,72 @@
+[
+  {
+    "repo": "nail-niche",
+    "name": "Nail Niche",
+    "type": "WordPress theme",
+    "alt": "Nail Niche WordPress theme",
+    "banner": ".github/images/banner.webp",
+    "zip": "nail-niche.zip",
+    "color": "c2255c",
+    "description": "A plain, photo-first theme for nail and beauty blogs: 7 home page designs, a Pinterest Save button on every photo, and automatic updates."
+  },
+  {
+    "repo": "pin-poster",
+    "name": "Pin Poster",
+    "type": "WordPress plugin",
+    "alt": "Pin Poster WordPress plugin",
+    "banner": ".github/images/banner.webp",
+    "zip": "pin-poster.zip",
+    "color": "8f2d4f",
+    "description": "Writes nail-idea blog posts with AI, makes a Pinterest-size image for every look, and sends them to Pinterest through Buffer, by hand or on a schedule."
+  },
+  {
+    "repo": "cod-store",
+    "name": "COD Store",
+    "type": "WooCommerce theme",
+    "alt": "COD Store WooCommerce theme",
+    "banner": ".github/images/banner-store-v2.webp",
+    "zip": "hx-store.zip",
+    "color": "0f7490",
+    "description": "A fast cash-on-delivery store theme for Arabic stores: order form on the product page, WhatsApp ordering, quantity offers and a currency switcher."
+  },
+  {
+    "repo": "cod-manager-pro",
+    "name": "COD Manager Pro",
+    "type": "WooCommerce plugin",
+    "alt": "COD Manager Pro WooCommerce plugin",
+    "banner": ".github/images/banner.webp",
+    "zip": "cod-manager-pro.zip",
+    "color": "4338ca",
+    "description": "Confirm, ship and collect cash-on-delivery orders in one work queue, print shipping labels, and see your real profit and what couriers still owe you."
+  },
+  {
+    "repo": "koora-dash",
+    "name": "Koora Dash",
+    "type": "WordPress theme",
+    "alt": "Koora Dash football WordPress theme",
+    "banner": ".github/images/banner.webp",
+    "zip": "koora-dash.zip",
+    "color": "e67a00",
+    "description": "A football dashboard theme: live scores, fixtures, league tables and news in one dark layout, 17 leagues ready, ad slots, and an app feel on phones."
+  },
+  {
+    "repo": "koora-autowriter",
+    "name": "Koora AutoWriter",
+    "type": "WordPress plugin",
+    "alt": "Koora AutoWriter WordPress plugin",
+    "banner": ".github/images/banner.webp",
+    "zip": "koora-autowriter.zip",
+    "color": "2563eb",
+    "description": "Turns football RSS feeds into original, Rank Math-ready news articles with AI (any OpenRouter model), with branded featured images and source links."
+  },
+  {
+    "repo": "car-rental-theme",
+    "name": "Exotic Cars",
+    "type": "WordPress theme",
+    "alt": "Exotic Cars car rental WordPress theme",
+    "banner": ".github/images/banner.webp",
+    "zip": "exotic-cars.zip",
+    "color": "a8742f",
+    "description": "A complete car rental website: fleet manager, online booking with Stripe deposits, customer emails, a profit dashboard, and 7 languages with Arabic right to left."
+  }
+]
