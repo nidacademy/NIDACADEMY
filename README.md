@@ -71,6 +71,37 @@ The tools we build for our own sites are shared below, free and open source.
 
 New tutorials on how to grow online, step by step, and how to use the tools above:
 
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=dIFyLpIhVDY"><img src="https://img.youtube.com/vi/dIFyLpIhVDY/maxresdefault.jpg" alt="كيف تبني موقعاً لكراء السيارات في 2026؟ (شرح كامل)" width="100%"></a>
+      <p dir="auto"><a href="https://www.youtube.com/watch?v=dIFyLpIhVDY"><b>كيف تبني موقعاً لكراء السيارات في 2026؟ (شرح كامل)</b></a></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=WX5wFjL3-Nw"><img src="https://img.youtube.com/vi/WX5wFjL3-Nw/maxresdefault.jpg" alt="Cash On Delivery | أفضل طريقة لانشاء متجر الكتروني احترافي" width="100%"></a>
+      <p dir="auto"><a href="https://www.youtube.com/watch?v=WX5wFjL3-Nw"><b>Cash On Delivery | أفضل طريقة لانشاء متجر الكتروني احترافي</b></a></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=u_gpAyIAQNY"><img src="https://img.youtube.com/vi/u_gpAyIAQNY/maxresdefault.jpg" alt="Pinterest Automation | أقوى أداة لنشرالمحتوى على بينترست" width="100%"></a>
+      <p dir="auto"><a href="https://www.youtube.com/watch?v=u_gpAyIAQNY"><b>Pinterest Automation | أقوى أداة لنشرالمحتوى على بينترست</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=CzPKk3c_WeA"><img src="https://img.youtube.com/vi/CzPKk3c_WeA/maxresdefault.jpg" alt="Claude Code ( 100% FREE ) | تشغيل كلود كود مجانا بدون اشتراك" width="100%"></a>
+      <p dir="auto"><a href="https://www.youtube.com/watch?v=CzPKk3c_WeA"><b>Claude Code ( 100% FREE ) | تشغيل كلود كود مجانا بدون اشتراك</b></a></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=Moy_vBkIt6M"><img src="https://img.youtube.com/vi/Moy_vBkIt6M/maxresdefault.jpg" alt="#1 - Blogging  - مقدمة حول التدوين" width="100%"></a>
+      <p dir="auto"><a href="https://www.youtube.com/watch?v=Moy_vBkIt6M"><b>#1 - Blogging  - مقدمة حول التدوين</b></a></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=CWJMQW68a_g"><img src="https://img.youtube.com/vi/CWJMQW68a_g/maxresdefault.jpg" alt="شرح n8n مجاني بالدارجة | الأتمتة بالذكاء الاصطناعي من الصفر" width="100%"></a>
+      <p dir="auto"><a href="https://www.youtube.com/watch?v=CWJMQW68a_g"><b>شرح n8n مجاني بالدارجة | الأتمتة بالذكاء الاصطناعي من الصفر</b></a></p>
+    </td>
+  </tr>
+</table>
+
 <p>
   <a href="https://www.youtube.com/@Nid.Academy"><img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"></a>
   <a href="https://www.instagram.com/nidacademy_/"><img src="https://img.shields.io/badge/Follow%20on%20Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"></a>
