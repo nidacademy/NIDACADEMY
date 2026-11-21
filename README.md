@@ -50,6 +50,22 @@ The tools we build for our own sites are shared below, free and open source.
       <a href="https://github.com/NIDACADEMY/car-rental-theme/releases/latest/download/exotic-cars.zip"><img src="https://img.shields.io/badge/Download-free-a8742f?style=for-the-badge" alt="Download Exotic Cars"></a>
       <a href="https://github.com/NIDACADEMY/car-rental-theme/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/car-rental-theme?style=for-the-badge&label=version&color=3b3b3b" alt="Exotic Cars version"></a>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NIDACADEMY/nail-niche"><img src="https://github.com/NIDACADEMY/nail-niche/raw/main/.github/images/banner.webp" alt="Nail Niche WordPress theme"></a>
+      <h3><a href="https://github.com/NIDACADEMY/nail-niche">Nail Niche</a> · WordPress theme</h3>
+      <p>A photo-first blog theme for nail and beauty sites: 7 home page designs, Pinterest Save buttons, one-click demo content and automatic updates.</p>
+      <a href="https://github.com/NIDACADEMY/nail-niche/releases/latest/download/nail-niche.zip"><img src="https://img.shields.io/badge/Download-free-be185d?style=for-the-badge" alt="Download Nail Niche"></a>
+      <a href="https://github.com/NIDACADEMY/nail-niche/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/nail-niche?style=for-the-badge&label=version&color=3b3b3b" alt="Nail Niche version"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NIDACADEMY/pin-poster"><img src="https://github.com/NIDACADEMY/pin-poster/raw/main/.github/images/banner.webp" alt="Pin Poster WordPress plugin"></a>
+      <h3><a href="https://github.com/NIDACADEMY/pin-poster">Pin Poster</a> · WordPress plugin</h3>
+      <p>Writes complete nail idea posts with AI images from a keyword, runs them on a weekly schedule, and sends the pins to Pinterest through Buffer.</p>
+      <a href="https://github.com/NIDACADEMY/pin-poster/releases/latest/download/pin-poster.zip"><img src="https://img.shields.io/badge/Download-free-e60023?style=for-the-badge" alt="Download Pin Poster"></a>
+      <a href="https://github.com/NIDACADEMY/pin-poster/releases/latest"><img src="https://img.shields.io/github/v/release/NIDACADEMY/pin-poster?style=for-the-badge&label=version&color=3b3b3b" alt="Pin Poster version"></a>
+    </td>
     <td width="50%" valign="top"></td>
   </tr>
 </table>
